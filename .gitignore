@@ -24,3 +24,8 @@ BC03_models.zip
 .ipynb_checkpoints/
 
 helper_func.cpython-312.pyc
+__pycache__
+catalogs
+__MACOSX
+BC03_models
+ngc1097mosaic
