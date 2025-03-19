@@ -1,0 +1,42 @@
+Notes on success of prompts:
+
+
+
+
+Better Accuracy for stellar association and noise
+    Prompts:
+        prompt_one = "single peak, circularly symmetric, radial profile more extended relative to point source"
+        prompt_two = "elongated or asymmetric, more extended relative to point source, central peak"
+        prompt_three = "compact stellar association, asymmetric, multiple peaks, dispersed"
+        prompt_four = "irregular, asymmetrical, uncircular, multiple peakes, oblong"
+    Results:
+        14.893617021276595,26.31578947368421,31.360946745562128,35.18518518518518
+        10.0,25.396825396825395,34.090909090909086,33.33333333333333
+
+
+
+
+Better accuracy for Globular Clusters, and decent for Open Clusters
+    Prompts:
+        prompt_one = "globular cluster"
+        prompt_two = "open cluster"
+        prompt_three = "stellar association"
+        prompt_four = "noise, other, not a star cluster"
+    Results:
+        53.2258064516129,33.13609467455622,13.095238095238097,17.647058823529413
+        53.84615384615385,27.52808988764045,9.75609756097561,20.0
+        41.81818181818181,24.096385542168676,12.121212121212121,17.5
+
+
+
+
+Placeholder
+    Prompts:
+        prompt_one = "globular cluster, central peak, symmetrical, slighlty more extended than point source"
+        prompt_two = "open cluster, central peak, asymmetrical or elongated, slightly more extended"
+        prompt_three = "compact stellar association, asymmetric, multiple peaks, dispersed"
+        prompt_four = "irregular, asymmetrical, uncircular, multiple peakes, oblong"
+    Results:
+        51.81818181818182,25.757575757575758,41.48936170212766,44.61538461538462
+        56.88073394495413,23.076923076923077,49.43820224719101,35.76642335766424
+        52.21238938053098,26.229508196721312,41.30434782608695,41.7910447761194
