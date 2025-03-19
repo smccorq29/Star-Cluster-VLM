@@ -7,6 +7,7 @@ hlsp_phangs-hst_hst_wfc3-uvis_ngc1097mosaic_multi_v1_drc-bundle
 *.fits
 !candidate_table_ngc1097.fits
 !filtered_file.fits
+!valid_detections.fits
 hlsp_phangs-cat_hst_uvis_ngc1097_multi_v1_obs-human-cluster-class12
 hlsp_phangs-cat_hst_uvis_ngc1097_multi_v1_obs-human-compact-association-class3
 hlsp_phangs-cat_hst_uvis_ngc1097_multi_v1_obs-machine-cluster-class12
