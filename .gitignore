@@ -32,3 +32,7 @@ catalogs
 __MACOSX
 BC03_models
 ngc1097mosaic
+
+cutout_pngs
+train_pngs
+test_pngs
