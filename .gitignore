@@ -36,3 +36,10 @@ ngc1097mosaic
 cutout_pngs
 train_pngs
 test_pngs
+sorted
+
+training_results.txt
+notes.txt
+
+specific_label_clip_model
+fine_tuned_clip_model
